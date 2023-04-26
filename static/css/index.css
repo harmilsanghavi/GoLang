@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.demo{
+    margin-left: 32rem;
+}
+.For{
+    margin-left: 32rem;
+    margin-right: 30rem;
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name,.city,.butt{
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.lname,.lcity{
+    color: white;
+}
